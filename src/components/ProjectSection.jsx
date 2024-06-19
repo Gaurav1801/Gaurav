@@ -7,7 +7,7 @@ const projectData = [
   {
     id: 1,
     title: "React protfolio website",
-    description: "project 1 description",
+    description: "My protfolio site",
     image: "/image/hero-image.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Gaurav1801/Gaurav",
