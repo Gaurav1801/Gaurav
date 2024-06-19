@@ -59,7 +59,7 @@ export default function AboutSection() {
           I am <b>Gaurav Tiwari</b> , a dedicated Frontend Developer. Currently, I am pursuing a Bachelor of Engineering in Computer Science at Gujarat Technological University. I enhancing user experience through various web development projects. Passionate about continuous learning and innovation, I am eager to bring my expertise to dynamic and impactful projects.
           </p>
 
-          <div className="flex  flex-row justify-start mt-8">
+          <div className="flex sm:text-xl  flex-row justify-start mt-8">
             <div className="me-1 sm:me-4">
               <TabButton
                 selectTab={() => handelTabChange("skills")}

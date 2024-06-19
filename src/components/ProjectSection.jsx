@@ -10,7 +10,7 @@ const projectData = [
     description: "project 1 description",
     image: "/image/hero-image.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/Gaurav1801/Gaurav",
     previewUrl: "/",
   },
   {
@@ -22,15 +22,15 @@ const projectData = [
     gitUrl: "https://github.com/Gaurav1801/TextUtil",
     previewUrl: "https://gaurav1801.github.io/TextUtil",
   },
-  {
-    id: 3,
-    title: "NewsAunty",
-    description: "Personal daily news site",
-    image: "/image/hero-image.png",
-    tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
-  },
+  // {
+  //   id: 3,
+  //   title: "NewsAunty",
+  //   description: "Personal daily news site",
+  //   image: "/image/hero-image.png",
+  //   tag: ["All", "Web"],
+  //   gitUrl: "/",
+  //   previewUrl: "/",
+  // },
   {
     id: 4,
     title: "StockIdeas",
